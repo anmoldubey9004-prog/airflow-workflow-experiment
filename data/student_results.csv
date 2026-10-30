@@ -1,0 +1,11 @@
+student_id,name,subject,marks,grade
+1,Anmol,Computer Science,85,Distinction
+2,Rahul,Computer Science,72,First Class
+3,Priya,Computer Science,90,Distinction
+4,Amit,Computer Science,65,First Class
+5,Neha,Computer Science,38,Fail
+6,Rohan,Computer Science,78,Distinction
+7,Sneha,Computer Science,82,Distinction
+8,Vikas,Computer Science,60,First Class
+9,Pooja,Computer Science,75,Distinction
+10,Arjun,Computer Science,58,Pass
